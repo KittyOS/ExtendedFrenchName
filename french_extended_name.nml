@@ -104,9 +104,7 @@ town_names (FR_CITY) {
 		text ("Nanterre", 6),
 		text ("Bobigny", 6),
 		text ("Créteil", 6),
-		text ("Cergy", 6)
-	}
-	{
+		text ("Cergy", 6),
 		text ("Belley", 1),
 		text ("Gex", 1),
 		text ("Nantua", 1),
