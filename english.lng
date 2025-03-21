@@ -1,0 +1,10 @@
+##grflangid 0x01
+# This is the English language file
+
+# GRF Metadata
+STR_GRF_NAME        :Extended French Name
+STR_GRF_DESCRIPTION :Adds every the name of every french prefecture and subprefecture
+STR_GRF_URL         :https://github.com/KittyOS/ExtendedFrenchName
+
+# GRF Data
+STR_MENU            :Extended French Name
